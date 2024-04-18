@@ -8,3 +8,7 @@ Został on oparty na mikrokontroleach RPI Zero 2W oraz ESP32-WROOM32D. Dane zbie
 
 Do prawidłowego działania należy zainstalować na RPI system operacyjny Raspberry OS oraz pobrać biblioteki potrzebne do działania oprogramowania. Następnie wgrać pliki: app.py, connectionByUART.py, engine.py oraz windowCreator.py (oprogramowanie uruchamiamy z app.py).
 Plik dla mikrokontrolera ESP32 to esp32V3.5.ino.
+
+Schemat ideowy urządzenia
+![image](https://github.com/KrystianWolin/ProjektMiniaturowegoOscyloskopuCyfrowego/assets/129780873/5dab2bb8-17e9-4b36-8e63-0393f4ec60ae)
+![image](https://github.com/KrystianWolin/ProjektMiniaturowegoOscyloskopuCyfrowego/assets/129780873/3a455976-9c01-44af-8501-c9b5cfde7f17)
